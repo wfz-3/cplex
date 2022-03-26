@@ -1,0 +1,4 @@
+自动运行cplex
+data存放n***.txt文件
+name 文件名称
+run 运行文件 在python3.7环境运行 注意安装好库
